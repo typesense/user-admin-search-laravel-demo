@@ -180,10 +180,6 @@ return [
                  'collection-schema' => [
                      'fields' => [
                          [
-                             'name' => 'id',
-                             'type' => 'string',
-                         ],
-                         [
                              'name' => 'name',
                              'type' => 'string',
                          ],
